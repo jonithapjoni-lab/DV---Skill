@@ -120,11 +120,11 @@ During Week 6, I worked on a healthcare dataset to analyze patient admissions, b
 * Created violin plots, line charts, and correlation heatmaps.
 * Examined relationships between age, billing amount, and stay duration.
 
+# Week 7 – Students Performance in Exam
+
 * # Students Performance Analysis
 
 This project analyzes students' Math, Reading, and Writing scores using Python. It uses Pandas, NumPy, Matplotlib, and Seaborn for data analysis.
-
-# Week 7 – Students Performance in Exam
 
 ### Features
 
