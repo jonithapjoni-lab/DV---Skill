@@ -124,6 +124,8 @@ During Week 6, I worked on a healthcare dataset to analyze patient admissions, b
 
 This project analyzes students' Math, Reading, and Writing scores using Python. It uses Pandas, NumPy, Matplotlib, and Seaborn for data analysis.
 
+# Week 7 – Students Performance in Exam
+
 ### Features
 
 * Dataset exploration
