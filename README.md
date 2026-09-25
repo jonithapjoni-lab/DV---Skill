@@ -120,6 +120,37 @@ During Week 6, I worked on a healthcare dataset to analyze patient admissions, b
 * Created violin plots, line charts, and correlation heatmaps.
 * Examined relationships between age, billing amount, and stay duration.
 
+* # Students Performance Analysis
+
+This project analyzes students' Math, Reading, and Writing scores using Python. It uses Pandas, NumPy, Matplotlib, and Seaborn for data analysis.
+
+### Features
+
+* Dataset exploration
+* Mean, Median, Mode, and Standard Deviation
+* Total Score and Percentage calculation
+* Missing value check
+* Outlier detection using IQR method
+
+### Tools Used
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+
+### Run
+
+```bash
+python students_performance_in_exam.py
+```
+
+### Output
+
+Student performance statistics, percentage calculations, and outlier analysis.
+
+
 ## Conclusion
 
 This project demonstrated the application of data analytics in the healthcare sector. The analysis provided valuable insights into patient care, hospital operations, and billing trends while improving my data visualization and analytical skills.
