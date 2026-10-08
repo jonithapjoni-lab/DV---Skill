@@ -96,8 +96,4 @@ These visualizations help understand factors affecting student performance and i
 - Correlation analysis
 - Educational performance analysis
 
-## Author
-Jonitha P
 
-## License
-This project is developed for academic and educational purposes.
