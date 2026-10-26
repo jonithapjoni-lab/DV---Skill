@@ -43,5 +43,3 @@ The analysis helps understand house price distribution, property characteristics
 ## Conclusion
 This project uses data analysis and visualization techniques to explore house sale data and identify useful patterns in property prices.
 
-## Author
-Jonitha P.
