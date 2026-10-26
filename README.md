@@ -179,8 +179,15 @@ This project analyzes student performance data and creates visualizations using 
 ```bash
 python students_performance_visualization.py
 ```
+## Week 9 - House Sale Data Analysis
 
+This project analyzes house sale data using Python to understand property prices and features.
 
+**Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn.
+
+**Process:** Data cleaning, data visualization, price analysis, and outlier detection.
+
+**Outcome:** Helps identify patterns in house prices and property features.
 
 ## Conclusion
 
