@@ -193,3 +193,30 @@ This project analyzes house sale data using Python to understand property prices
 
 This project demonstrated the application of data analytics in the healthcare sector. The analysis provided valuable insights into patient care, hospital operations, and billing trends while improving my data visualization and analytical skills.
 
+# Week 10 - House Sale Price Analysis
+
+## Project Overview
+This project analyzes house sale prices using Python and data visualization techniques to understand the factors affecting property prices.
+
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Google Colab
+
+## Dataset
+`kc_house_data.csv`
+
+## Key Features
+- House price analysis
+- Living area and price comparison
+- Grade and condition analysis
+- Waterfront price comparison
+- Property age and renovation analysis
+- Data visualization using graphs
+
+## Conclusion
+This project helps identify the major factors influencing house prices through data analysis and visualization.
+
