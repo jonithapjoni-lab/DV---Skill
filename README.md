@@ -220,3 +220,34 @@ This project analyzes house sale prices using Python and data visualization tech
 ## Conclusion
 This project helps identify the major factors influencing house prices through data analysis and visualization.
 
+# Week 11 - Automobile Dataset Analysis
+
+## Introduction
+This project focuses on cleaning and analyzing the Automobile Dataset using Python.
+
+## Objectives
+- Identify and handle missing values.
+- Clean invalid data.
+- Convert data types.
+- Perform feature engineering.
+- Analyze automobile characteristics.
+
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Google Colab
+
+## Process
+1. Import libraries.
+2. Load the dataset.
+3. Explore and clean data.
+4. Handle missing values.
+5. Create new features.
+6. Analyze automobile data.
+7. Export the cleaned dataset.
+
+## Conclusion
+This project helps to understand data cleaning, preprocessing, and analysis using Python. The final cleaned dataset is ready for further analysis.
